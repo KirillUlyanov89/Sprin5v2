@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-
+    git clone git@github.com:KirillUlyanov89/Sprin5v2.git
     ```
     
 2. Установите зависимости:
