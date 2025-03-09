@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/lnlydrvr/Sprint_3.git
+
     ```
     
 2. Установите зависимости:
